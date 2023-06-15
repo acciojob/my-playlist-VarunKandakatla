@@ -21,6 +21,7 @@ video{
 
 
 li,a{
+	list-style-type:none;
 	text-decoration:none;
 	color:black;
 	display:block;

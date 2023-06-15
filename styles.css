@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+body{
+	background:#cccccc
+}
+
+.player_two{
+	width:300px;
+	position:relative;
+	left:30%;
+	right:30%;
+}
+
+video{
+	width:300px;
+}
+
+
+
+a{
+	text-decoration:none;
+	color:black;
+	display:block;
+}
+
+.player_one, .player_two{
+	background:white;
+	border:1px solid black;
+	padding: 5px;
+	margin:10px;
+}

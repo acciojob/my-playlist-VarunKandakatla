@@ -3,10 +3,14 @@ body{
 	background:#cccccc
 }
 
+h1,h2{
+	text-align:center;
+}
+
 .player_two{
 	width:300px;
 	position:relative;
-	left:30%;
+	left:35%;
 	right:30%;
 }
 
@@ -16,7 +20,7 @@ video{
 
 
 
-a{
+li,a{
 	text-decoration:none;
 	color:black;
 	display:block;
